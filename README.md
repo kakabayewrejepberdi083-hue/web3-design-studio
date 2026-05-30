@@ -4,8 +4,8 @@ Modern Web3 agency landing page built with HTML and CSS.
 
 ## Preview
 
-Live Demo: https://yourusername.github.io/web3-design-studio/
-
+Live Demo: 
+[Open Live Site]( https://kakabayewrejepberdi083-hue.github.io/web3-design-studio/)
 ## Features
 
 * Modern Web3 inspired UI
@@ -35,9 +35,9 @@ web3-design-studio/
 2. Open `index.html` in your browser
 
 ```bash
-git clone https://github.com/yourusername/web3-design-studio.git
+git clone https://github.com/kakabayewrejepberdi083-hue/web3-design-studio.git
 ```
 
 ## Author
 
-Developed by Your Name
+kakabayewrejep
